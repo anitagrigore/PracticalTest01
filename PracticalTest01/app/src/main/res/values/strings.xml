@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="navigate_to_secondary_activity">Navigate to secondary activity</string>
+    <string name="_0">0</string>
+    <string name="press_me">Press Me</string>
+    <string name="press_me_too">Press me, too</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
